@@ -46,13 +46,7 @@ The dashboard enables granular exploration of key metrics across various branche
 - Business-focused Insight Generation  
 - UX Design for Dashboards  
 
----
-
-## 📁 Files Included
-
-- `Home_Loan_Dashboard.pbix` –  
----
-
+--
 ## 🔗 Related Links
 
 - 📌 [LinkedIn Profile – Shweta Vishwakarma](https://www.linkedin.com/in/shweta-vishwakarma-90065a245)
