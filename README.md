@@ -50,10 +50,7 @@ The dashboard enables granular exploration of key metrics across various branche
 
 ## 📁 Files Included
 
-- `Home_Loan_Dashboard.pbix` – Power BI report file  
-- `Loan_Data.xlsx` (optional, if shareable)  
-- `README.md` – Project documentation  
-
+- `Home_Loan_Dashboard.pbix` –  
 ---
 
 ## 🔗 Related Links
