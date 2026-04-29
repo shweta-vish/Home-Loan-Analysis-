@@ -5,7 +5,7 @@ The banking and finance sector relies heavily on data analysis to make informed 
 
 This project focuses on analyzing home loan data to identify key factors that influence loan approval decisions. Using data analysis and visualization techniques, the project provides meaningful insights into customer eligibility and financial trends.
 
-<img width="702" height="645" alt="image" src="https://github.com/user-attachments/assets/09138611-ca49-4d15-ac1d-5010aa575931" />
+<img width="881" height="802" alt="image" src="https://github.com/user-attachments/assets/4d30f27f-dbb6-4b9f-af11-6b3dc97a8d78" />
 
 ---
 
